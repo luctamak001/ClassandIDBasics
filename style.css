@@ -1,0 +1,43 @@
+header {
+    background-color: lightskyblue;
+    color: azure;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+h3 {
+    background-color: sandybrown;
+    color: whitesmoke;
+}
+
+ul {
+    list-style-type: circle;
+    background-color: bisque;
+    color: dimgray;
+}
+
+ol {
+    list-style-type: decimal;
+    background-color: blanchedalmond;
+    color: lightslategray;
+}
+
+h4 {
+    background-color: burlywood;
+    color: white;
+}
+p {
+    background-color: #D3AF37;
+    background-size: 1%;
+    color: #FFFFF0;
+}
+
+footer {
+    list-style-type: upper-latin;
+    background-color: #D3AF37;
+    color: #FFFFF0;
+}
